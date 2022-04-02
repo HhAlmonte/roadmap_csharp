@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importadora_El_Charcho", "I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Importadora_El_Charco", "Importadora_El_Charco", "{76461865-D91F-4768-93B8-81634F2CE08B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asp.Net", "Asp.Net", "{1EA5CA79-1914-457E-B1AE-C5987C63B091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B95E4F50-C30F-4748-8B0C-79671E3B5CC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +129,10 @@ Global
 		{A427994A-73B4-42D4-94D5-94DB7E8B9C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A427994A-73B4-42D4-94D5-94DB7E8B9C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A427994A-73B4-42D4-94D5-94DB7E8B9C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95E4F50-C30F-4748-8B0C-79671E3B5CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95E4F50-C30F-4748-8B0C-79671E3B5CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95E4F50-C30F-4748-8B0C-79671E3B5CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95E4F50-C30F-4748-8B0C-79671E3B5CC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +155,7 @@ Global
 		{43701627-4D6B-4502-BF44-F27F69A0EEA0} = {7E77358D-442D-43BF-884F-CB0A1947F494}
 		{BA173F82-9110-47FB-A148-F750459B0FDA} = {2D7AC4D0-C292-430A-AD46-021D2D143FE7}
 		{A427994A-73B4-42D4-94D5-94DB7E8B9C85} = {76461865-D91F-4768-93B8-81634F2CE08B}
+		{B95E4F50-C30F-4748-8B0C-79671E3B5CC3} = {1EA5CA79-1914-457E-B1AE-C5987C63B091}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A2635AFF-ED9A-45BC-AD50-B75AFFFE989B}
